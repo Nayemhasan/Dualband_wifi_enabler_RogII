@@ -6,6 +6,7 @@
 
 ## How to use?
 
+  - Make sure you are on STOCK WW A11
   - Flash the pre-release with magisk
   - Now open up the new Armoury Crate 
   - Scrool down to Storm Network acceleration
