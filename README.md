@@ -10,7 +10,7 @@
   - For safety measures install this mdoule to prevent bootloop [BootLoopProtector](https://github.com/Nayemhasan/Bootloop_Protector_Reborn/releases/tag/V1)
   - Flash the pre-release with magisk
   - Now open up the new Armoury Crate 
-  - Scrool down to Storm Network acceleration
+  - Scrool down to "Storm Network acceleration"
     <img src="https://github.com/Nayemhasan/Dualband_wifi_enabler_RogII/blob/main/pics/1.png">
 
   - Now enable dual band wifi 
