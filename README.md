@@ -2,7 +2,7 @@
 
   DualBand Wifi enabler for Asus Rog 2 Tencent/Strix
 
-  As off now you can also try it out and ping [me_🍉](https://t.me/watermelon787) if you got any issues.
+  As off now you can try it out and ping [me_🍉](https://t.me/watermelon787) if you got any issues.
 
 ## How to use?
 
