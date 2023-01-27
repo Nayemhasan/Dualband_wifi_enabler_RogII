@@ -9,9 +9,10 @@
   - Flash the pre-release with magisk
   - Now open up the new Armoury Crate 
   - Scrool down to Storm Network acceleration
-    [!](https://github.com/Nayemhasan/Dualband_wifi_enabler_RogII/blob/main/pics/1.png)
+    <img src="https://github.com/Nayemhasan/Dualband_wifi_enabler_RogII/blob/main/pics/1.png">
+
   - Now enable dual band wifi 
-    [!](https://github.com/Nayemhasan/Dualband_wifi_enabler_RogII/blob/main/pics/2.png)
+    <img src="https://github.com/Nayemhasan/Dualband_wifi_enabler_RogII/blob/main/pics/2.png">
 
   
 
